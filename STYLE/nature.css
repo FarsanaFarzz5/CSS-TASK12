@@ -1,0 +1,116 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html,body{
+    line-height: 1.4;
+    font-weight: 300;
+}
+
+.first{
+    background-image: url(3-nature-wallpaper-mountain.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.one h1{
+    
+    color: white;
+    padding-top: 250px;
+    padding-left: 370px;
+    font-size: 50px;
+   }
+
+.two h1{
+    padding-left: 550px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.two p{
+    text-align: center;
+    max-width: 900px;
+    padding-top: 10px;
+    margin-left: 160px;
+}
+ 
+.third{
+    background-image: url(unnamed.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.three h1{
+    
+    color: white;
+    padding-top: 250px;
+    padding-left: 370px;
+    font-size: 50px;
+   }
+
+   .four h1{
+    padding-left: 550px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.four p{
+    text-align: center;
+    max-width: 900px;
+    padding-top: 10px;
+    margin-left: 160px;
+}
+
+.fifth{
+    background-image: url(1633199491-1633199490440.avif);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.five h1{
+    
+    color: white;
+    padding-top: 250px;
+    padding-left: 370px;
+    font-size: 50px;
+   }
+
+.six h1{
+    padding-left: 550px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.six p{
+    text-align: center;
+    max-width: 900px;
+    padding-top: 10px;
+    margin-left: 160px;
+}
+
+.seventh{
+    background-image: url(1913623.jpeg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.seven h1{
+    
+    color: white;
+    padding-top: 250px;
+    padding-left: 370px;
+    font-size: 50px;
+   }
+
+
